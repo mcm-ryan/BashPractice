@@ -3,7 +3,7 @@
 #
 # This script calculates and returns the result of an exponential expression
 # The user input two parameters, the first being the base, and the second being the exponent
-# Example USAGE: ./6-1.sh <base> <exponent>
+# Example USAGE: ./exponent.sh <base> <exponent>
 #
 
 i=0		 #Variable used in loop
